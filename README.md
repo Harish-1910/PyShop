@@ -35,6 +35,7 @@ Clone the repository:
 
 
 git clone https://github.com/yourusername/PyShop.git
+
 cd PyShop
 
 Create a virtual environment:
@@ -66,7 +67,7 @@ python manage.py runserver
 
 Open the application:
 
-Product listings: http://127.0.0.1:8000/
+Product listings: http://127.0.0.1:8000/products/
 
 Admin panel: http://127.0.0.1:8000/admin/
 
