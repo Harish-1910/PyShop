@@ -16,18 +16,18 @@
 - **HTML/CSS**
 
 ## **Setup Instructions**
-Clone the repository:
+**Clone the repository:**
 
 
-git clone https://github.com/yourusername/PyShop.git
+git clone https://github.com/Harish-1910/PyShop.git
 
 cd PyShop
 
-Create a virtual environment:
+**Create a virtual environment:**
 
  python -m venv .venv
 
-Activate the virtual environment:
+**Activate the virtual environment:**
 
 
 On Windows:
@@ -37,20 +37,20 @@ On macOS/Linux:
 source .venv/bin/activate
 
 
-Install required packages:
+**Install required packages:**
 pip install -r requirements.txt
 
-Apply migrations:
+**Apply migrations:**
 python manage.py migrate
 
-Create a superuser:
+**Create a superuser:**
 python manage.py createsuperuser
 
 
-Run the development server:
+**Run the development server:**
 python manage.py runserver
 
-Open the application:
+##**Open the application:**
 
 Product listings: http://127.0.0.1:8000/products/
 
@@ -65,7 +65,7 @@ Admin panel: http://127.0.0.1:8000/admin/
 ![Product Page](product_page.png)
 
 
-License
+##**License**
 This project is licensed under the MIT License.
 
 
