@@ -1,36 +1,21 @@
-**PyShop: A Django-based Product Management System
-Overview**
+# **PyShop: A Django-based Product Management System**
 
-PyShop is a simple web application built with Django that allows users to manage products in an online store.
+## **Overview**
 
+**PyShop** is a simple web application built with Django that allows users to manage products in an online store. It features an **Admin Panel** for managing products and offers, and a **Product Listing Page** to display products.
 
-Features an Admin Panel for managing products and offers, and a Product Listing Page to display products.
+## **Features:**
+- **Product Management**: Add, view, and manage products.
+- **Admin Panel**: Manage products and offers easily.
+- **Offers Management**: Add discounts and promotional offers.
 
+## **Technologies Used:**
+- **Django**
+- **Python**
+- **SQLite**
+- **HTML/CSS**
 
-Features:
-**Product Management: Add, view, and manage products.
-
-
-**Admin Panel: Manage products and offers easily.
-
-
-**Offers Management: Add discounts and promotional offers.
-
-
-Technologies Used:
-*Django
-
-
-*Python
-
-
-*SQLite
-
-
-*HTML/CSS
-
-
-Setup Instructions
+## **Setup Instructions**
 Clone the repository:
 
 
