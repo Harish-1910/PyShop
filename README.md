@@ -50,7 +50,7 @@ python manage.py createsuperuser
 **Run the development server:**
 python manage.py runserver
 
-##**Open the application:**
+## **Open the application:**
 
 Product listings: http://127.0.0.1:8000/products/
 
